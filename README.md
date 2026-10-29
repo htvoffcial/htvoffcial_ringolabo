@@ -34,6 +34,6 @@ Android SDK（platform 34 / build-tools 34）と JDK 17 がある環境で:
 
 ## 構成
 
-- `src/app/hane/applejuicelab/MainActivity.java` — アプリ本体（シミュレーション＋UI）
+- `src/jp/haruharutv/ringojuicelab/MainActivity.java` — アプリ本体（シミュレーション＋UI）
 - `AndroidManifest.xml`
 - `build.sh` — ビルドスクリプト
